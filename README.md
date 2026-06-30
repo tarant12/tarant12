@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fog-winter.png" width="100%" alt="Foggy winter landscape" />
+  <img src="./fog-winter.png" width="100%" alt="Foggy winter landscape" />
 </p>
 
 <h1 align="center">Anton Taraskin</h1>
@@ -79,7 +79,7 @@ GitHub:     tarant12
 ---
 
 <p align="center">
-  <img src="./assets/fog-mountains.png" width="100%" alt="Foggy mountain landscape" />
+  <img src="./fog-mountains.png" width="100%" alt="Foggy mountain landscape" />
 </p>
 
 ## What I am interested in
@@ -98,15 +98,6 @@ C# internals             -> async/await, TPL, multithreading
 ## Current goal
 
 I am looking for a **remote .NET Backend Developer Internship / C# Developer Internship**, where I can grow through real backend tasks, code review, teamwork and production-style development practices.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarant12&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarant12&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" />
-</p>
 
 ---
 
@@ -129,5 +120,5 @@ I am looking for a **remote .NET Backend Developer Internship / C# Developer Int
 </p>
 
 <p align="center">
-  <img src="./assets/fog-winter.png" width="100%" alt="Foggy winter footer" />
+  <img src="./fog-winter.png" width="100%" alt="Foggy winter footer" />
 </p>
