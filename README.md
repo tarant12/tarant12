@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Vladikavkaz%2C%20Russia-555555?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Format-Remote%20internship-555555?style=flat-square" alt="Remote internship" />
+  <img src="https://img.shields.io/badge/Format-Remote%20internship-555555?style=flat-square" alt="Remote work" />
   <img src="https://img.shields.io/badge/Focus-.NET%20Backend-555555?style=flat-square" alt=".NET Backend" />
 </p>
 
