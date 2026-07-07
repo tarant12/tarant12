@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Anton Taraskin</h1>
-<h3 align="center">.NET Backend Developer Intern / C# Developer Intern</h3>
+<h3 align="center">.NET Backend Developer Junior+ / C# Developer Junior+</h3>
 
 <p align="center">
   <a href="mailto:antyan20067@mail.ru">
@@ -27,14 +27,14 @@
 
 ## About me
 
-I am a 2nd-year bachelor's student at **North Ossetian State University named after K. L. Khetagurov**, Faculty of Mathematics and Computer Science, majoring in **Applied Mathematics and Computer Science**.
+I am a 3nd-year bachelor's student at **North Ossetian State University named after K. L. Khetagurov**, Faculty of Mathematics and Computer Science, majoring in **Applied Mathematics and Computer Science**.
 
 I am growing as a **.NET backend developer** and focusing on clean backend architecture, REST/gRPC APIs, databases, message brokers, testing and asynchronous programming in C#.
 
 ```txt
 Role:       .NET Backend Developer Intern / C# Developer Intern
 Location:   Vladikavkaz, Russia
-Format:     Remote internship
+Format:     Remote work
 GitHub:     tarant12
 ```
 
@@ -92,12 +92,6 @@ Databases                -> PostgreSQL, relations, transactions, queries
 Reliability              -> tests, error handling, logging, Docker environment
 C# internals             -> async/await, TPL, multithreading
 ```
-
----
-
-## Current goal
-
-I am looking for a **remote .NET Backend Developer Internship / C# Developer Internship**, where I can grow through real backend tasks, code review, teamwork and production-style development practices.
 
 ---
 
