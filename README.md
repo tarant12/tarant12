@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Anton Taraskin</h1>
-<h3 align="center">.NET Backend Developer Junior+ / C# Developer Junior+</h3>
+<h3 align="center">.NET Backend Developer Intern / C# Developer Intern</h3>
 
 <p align="center">
   <a href="mailto:antyan20067@mail.ru">
@@ -32,7 +32,7 @@ I am a 3nd-year bachelor's student at **North Ossetian State University named af
 I am growing as a **.NET backend developer** and focusing on clean backend architecture, REST/gRPC APIs, databases, message brokers, testing and asynchronous programming in C#.
 
 ```txt
-Role:       .NET Backend Developer Junior+ / C# Developer Junior+
+Role:       .NET Backend Developer Intern / C# Developer Intern
 Location:   Vladikavkaz, Russia
 Format:     Remote work
 GitHub:     tarant12
